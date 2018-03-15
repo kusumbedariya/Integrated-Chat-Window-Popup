@@ -89,14 +89,7 @@ body
     border-radius: 50%;
     width: 44px;
 }
-.popup-messages-footer > textarea {
-    border-bottom: 1px solid #b2b2b2 !important;
-    height: 24px !important;
-    margin: 7px;
-    padding: 5px !important;
-     border: medium none;
-    width: 95% !important;
-}
+
 .popup-messages-footer {
     background: #fff none repeat scroll 0 0;
     bottom: 0;
@@ -109,6 +102,14 @@ body
     overflow: hidden;
     padding: 2px 5px 10px 6px;
     width: 100%;
+}
+.popup-messages-footer > textarea {
+    border-bottom: 1px solid #b2b2b2 !important;
+    height: 24px !important;
+    margin: 7px;
+    padding: 5px !important;
+     border: medium none;
+    width: 95% !important;
 }
 .simple_round {
     background: #d1d1d1 none repeat scroll 0 0;
